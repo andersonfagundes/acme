@@ -1,4 +1,4 @@
-# acme
+# acme - 1 entrega da disciplina clean code e padrões de projeto
 
 É necessário ter instalado o java 11 para executar o projeto;
 
